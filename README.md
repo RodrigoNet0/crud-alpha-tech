@@ -8,7 +8,7 @@ Desenvolver um aplicativo frontend usando ou React que permita o gerenciamento d
 
 ## Requisitos Básicos
 
-1. **Framework**: Escolha entre  ou React.
+1. **Framework**: Escolha entre React Native ou React.
 2. **Funcionalidades**:
    - Listar itens do inventário.
    - Adicionar novos itens ao inventário.
@@ -72,7 +72,7 @@ O projeto usa as seguintes dependências:
 1. Clone este repositório:
 
 ```bash
-git clone 
+git clone https://github.com/RodrigoNet0/crud-alpha-tech.git
 ```
 
 2. Entre na pasta do projeto:
